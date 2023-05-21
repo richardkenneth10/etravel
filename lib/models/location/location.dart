@@ -1,0 +1,4 @@
+enum Location {
+  pickup,
+  destination,
+}

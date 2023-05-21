@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <string name="app_name">ETravel</string>
+     <string name="facebook_app_id">595398338655911</string>
+     <string name="fb_login_protocol_scheme">fb595398338655911</string>
+     <string name="facebook_client_token">3648eb4cd095c2384f4ec0716e4b31ad</string>
+</resources>
